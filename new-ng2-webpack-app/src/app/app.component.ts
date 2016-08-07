@@ -18,6 +18,6 @@ import { ButtonTimerComponent } from './components/example-base-component/button
 export class AppComponent implements OnInit {
 
   ngOnInit(){
-    console.log('App start load');
+    console.log('App Start Load');
   }
 }
